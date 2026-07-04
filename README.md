@@ -1,8 +1,9 @@
-# 🚗 Vehicle Maintenance Record System (VMRS)
+# Vehicle Maintenance Record System (VMRS)
 
 A lightweight, menu-driven CRUD application for tracking vehicle maintenance history, built in C. Records are stored in binary files using an **indexed storage design** for fast search, sorting, and retrieval.
 
 > Keep a clean, persistent log of every service performed on a fleet of vehicles — who owns it, what was done, when, and how much it cost.
+
 
 ---
 
